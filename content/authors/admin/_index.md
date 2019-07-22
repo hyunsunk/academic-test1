@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: 
 
 # Username (this should match the folder name)
 authors:
@@ -18,7 +18,7 @@ organizations:
   url: "https://giesbusiness.illinois.edu"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: []
 
 interests:
 - Organizational Theory
