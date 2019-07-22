@@ -21,8 +21,9 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Organizational Theory
 - Social Evaluation
-- Organizational Reputation
+- Corporate Reputations
 - Institutions and Entrepreneurship
 - Venture Capital Industry
 
@@ -46,12 +47,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:hkim332@illinois.edu".
-- icon: twitter
-  icon_pack: fab
-  link: 
-- icon: google-scholar
-  icon_pack: ai
-  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/hyunsunk
