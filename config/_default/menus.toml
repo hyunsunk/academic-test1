@@ -6,17 +6,17 @@
 [[main]]
   name = "Home"
   url = "#about"
-  weight = 10
+  weight = 40
 
 [[main]]
   name = "Research"
   url = "#posts"
-  weight = 20
+  weight = 50
 
 [[main]]
   name = "Teaching"
   url = "#projects"
-  weight = 30
+  weight = 60
 
 
 
@@ -31,4 +31,4 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = -10
+  weight = 80
