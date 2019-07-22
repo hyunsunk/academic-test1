@@ -31,4 +31,4 @@
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = -10
