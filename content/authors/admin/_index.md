@@ -67,6 +67,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a PhD candidate in Organizational Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. My work explores antecedents and consequences of social evaluations, such as corporate reputation, organizational celebrity, and approval through media. I am also interested in how newness or unfamiliarity are accepted, rejected, or ignored by audiences. My dissertation examines spillover effects of media attention from an unconventional direction—nascent organizations to established organizations. I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Prior to joining the academia, I worked as a project financial controller is Schneider Electric, Grenoble, France. As an undergraduate, I participated in international activities in Accra, Ghana, as a membet of AIESEC (url: https://en.wikipedia.org/wiki/AIESEC). 
