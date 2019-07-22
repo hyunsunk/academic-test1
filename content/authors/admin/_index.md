@@ -26,6 +26,7 @@ interests:
 - Corporate Reputations
 - Institutions and Entrepreneurship
 - Venture Capital Industry
+- Media Attention
 
 education:
   courses:
