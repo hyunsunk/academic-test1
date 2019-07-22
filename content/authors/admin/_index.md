@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Organizational Theory
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Illinois at Urbana-Champaign
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
