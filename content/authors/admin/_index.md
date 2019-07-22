@@ -58,7 +58,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "hkim332@illinois.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
@@ -69,4 +69,4 @@ user_groups:
 
 I am a PhD candidate in Organizational Theory at the Gies College of Business at the University of Illinois at Urbana-Champaign. My work explores antecedents and consequences of social evaluations, such as corporate reputation, organizational celebrity, and approval through media. I am also interested in how newness or unfamiliarity are accepted, rejected, or ignored by audiences. My dissertation examines spillover effects of media attention from an unconventional direction from nascent startups to established venture capital firms. I study settings that bear high ambiguities, where there is high outcome uncertainty, the meaning of actions is subject to interpretation, and conflicting external demands are present, such as U.S. venture capital industry, patent litigation, and alternative litigation financing.   
 
-Prior to joining the academia, I worked as a project financial controller is Schneider Electric, Grenoble, France. As an undergraduate, I participated in international activities in Accra, Ghana, as a membet of AIESEC ( https://en.wikipedia.org/wiki/AIESEC). 
+Prior to joining the academia, I worked as a project financial controller in Schneider Electric, Grenoble, France. As an undergraduate, I participated in international activities in Accra, Ghana, as a membet of AIESEC ( https://en.wikipedia.org/wiki/AIESEC). 
