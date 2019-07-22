@@ -1,6 +1,6 @@
 ---
 # Display name
-name: 
+name: Hyunsun Kim-Hahm
 
 # Username (this should match the folder name)
 authors:
