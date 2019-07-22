@@ -5,7 +5,7 @@ name = "classic1"
 google_fonts = "Lato:400,700|Merriweather|Roboto+Mono|Noto+Sans+TC|Lora|Playfair+Display"
 
 # Font families
-heading_font = "Playfair+Display"
+heading_font = "Playfair Display"
 body_font = "Noto Sans TC"
 nav_font = "Lato"
 mono_font = "Roboto Mono"
