@@ -30,9 +30,9 @@ interests:
 
 education:
   courses:
-  - course: PhD Candidate in Business Administration
+  - course: PhD in Business Administration
     institution: University of Illinois at Urbana-Champaign
-    year: expected 2020
+    year: 2020 expected
   - course: MS in Business Administration
     institution: Seoul National University
     year: 2012
